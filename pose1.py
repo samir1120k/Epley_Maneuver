@@ -122,7 +122,7 @@ def is_full_body_visible(landmarks, frame_width, frame_height):
             lm.y < 0.05 or lm.y > 0.95):
             return False
     return True
-
+#Bakwas app
 # Main loop
 while cap.isOpened():
     success, frame = cap.read()
