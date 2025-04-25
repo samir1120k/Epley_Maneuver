@@ -1,5 +1,5 @@
-mediapipe
-numpy
-pyttsx3
-opencv-python-headless
-streamlit
+streamlit 
+opencv-python 
+mediapipe 
+pyttsx3 
+streamlit-webrtc
